@@ -1,5 +1,5 @@
 
-# Comparing Marketing Campaigns
+# Assessing Marketing Campaigns
 ## Promotion Performance | A/B Testing
 
 **Author**: Miguel Santana
