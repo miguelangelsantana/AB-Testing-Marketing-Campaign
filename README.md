@@ -4,7 +4,7 @@
 
 **Author**: Miguel Santana
 
-Thank you for reviewing this repository. The author's contact info, sources and social media profiles are listed below under **further information.**
+Thank you for reviewing this repository. The author's contact info, blog, sources and social media profiles are listed below under **further information.**
 
 The contents of this repository detail an analysis of three marketing campaigns in a retail environment. A new item has been introduced in several markets. The markets were randomly selected and different promotions are used at each location. The results are tracked and then used to select the most effective marketing campaign. Our analysis will determine which promotion has the largest impact on sales performance and offer actionable insight. 
 
@@ -117,6 +117,8 @@ Future work should include a larger dataset with additional context. While fabri
 Please review the narrative of our analysis in [our jupyter notebook](./jupyter_notebook.ipynb) or review our [presentation](/powerpoint/powerpoint.pdf)
 
 For any additional questions, please reach out via email at santana2.miguel@gmail.com, on [LinkedIn](https://www.linkedin.com/in/miguel-angel-santana-ii-mba-51467276/) or on [Twitter.](https://twitter.com/msantana_ds)
+
+A blog post on this analysis is available on [Medium.](https://miguelangelsantana.medium.com/marketing-campaign-assessment-b7f5785ffb4c)
 
 #### Sources
 
