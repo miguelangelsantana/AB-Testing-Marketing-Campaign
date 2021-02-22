@@ -1,4 +1,5 @@
 .DS_Store
+powerpoint.pptx
 *.ipynb_checkpoints
 *.pytest_cache
 *.pyc
