@@ -126,7 +126,7 @@ Additional analysis, notes and file sources can be found on Udemy's website.
 
 * Course Name: Data Science & Deep Learning for Business by Rajeev Ratan
 
-##### Repository Structure:
+##### Repository Structure
 
 ```
 
